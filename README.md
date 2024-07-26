@@ -1,5 +1,6 @@
 # TiNet-iScience2023
 Implementation code of TiNet: Human-understandable thyroid ultrasound imaging AI report system — A bridge between AI and clinicians
+The paper: https://doi.org/10.1016/j.isci.2023.106530
 
 ## Usage
 1. For the input image, first use the ForOptFPN method to segment, you can use segmentation/scripts/train_ForOptFPN.sh for training, and use segmentation/scripts/eval_ForOptFPN.sh for testing.
@@ -13,3 +14,5 @@ The input is an ultrasound image of the thyroid containing a nodule. We provide 
 
 ## Metrics
 Models were evaluated using accuracy, precision, sensitivity and AUC. For the segmentation model, IOU is also used for evaluation.
+
+## Cite
