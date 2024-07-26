@@ -1,5 +1,6 @@
 # TiNet-iScience2023
-Implementation code of TiNet: Human-understandable thyroid ultrasound imaging AI report system — A bridge between AI and clinicians
+Implementation code of TiNet: Human-understandable thyroid ultrasound imaging AI report system — A bridge between AI and clinicians.
+
 The paper: https://doi.org/10.1016/j.isci.2023.106530
 
 ## Usage
